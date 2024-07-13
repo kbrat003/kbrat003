@@ -1,5 +1,1 @@
- Hi, I’m Kyle Bratzel
- I’m interested in data analytics and modeling in sports
- I’m currently learning software construction at University of California, Riverside
- I’m looking to collaborate on projects and research that focuses on improving modeling in betting markets
- I can be reached at kbrat003@ucr.edu
+I’m Kyle Bratzel. Graduating in an oversaturated market of computer science students has encouraged me to use my skillset on embracing my passions. I use my analytical skills and computational understanding to provide insightful analysis about sports. I hope you enjoy and learn something on my page!
